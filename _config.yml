@@ -1,1 +1,9 @@
+title: Amaris's Reading List
+description: Share Wonderful Milestones with All
+google_analytics: UA-89537104-2
+show_downloads: false
+markdown: kramdown
 theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
